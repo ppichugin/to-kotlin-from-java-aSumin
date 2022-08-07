@@ -17,3 +17,5 @@ To Kotlin From Java
 ---
 
 Курс: https://www.udemy.com/course/kotlin_sumin/
+
+Done! Certificate: https://www.udemy.com/certificate/UC-329376b6-6ae8-487c-adb8-72c38c5bba54/
